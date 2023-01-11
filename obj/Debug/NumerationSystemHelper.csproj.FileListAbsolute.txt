@@ -1,0 +1,6 @@
+D:\TESTLOG\NumerationSystemHelper\bin\Debug\NumerationSystemHelper.dll
+D:\TESTLOG\NumerationSystemHelper\bin\Debug\NumerationSystemHelper.pdb
+D:\TESTLOG\NumerationSystemHelper\obj\Debug\NumerationSystemHelper.csproj.AssemblyReference.cache
+D:\TESTLOG\NumerationSystemHelper\obj\Debug\NumerationSystemHelper.csproj.CoreCompileInputs.cache
+D:\TESTLOG\NumerationSystemHelper\obj\Debug\NumerationSystemHelper.dll
+D:\TESTLOG\NumerationSystemHelper\obj\Debug\NumerationSystemHelper.pdb
